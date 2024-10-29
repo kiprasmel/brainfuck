@@ -1,0 +1,15 @@
+brainfuck
+=========
+
+a small interpreter in C, in less than 100 lines.
+
+resources
+---------
+
+- read "Introduction" and "Basics", for me was enough.
+  - https://gist.github.com/roachhd/dce54bec8ba55fb17d3a
+- understand "factors" of a number, and how they relate to loops in brainfuck.
+  - i used my own `calc` script to quickly calculate (see "factors", "ord", "chr")
+    - https://github.com/kiprasmel/voidrice/blob/e7acd1dfa45f423aab15765a076bcc1d25d0e432/.local/bin/calc
+
+
